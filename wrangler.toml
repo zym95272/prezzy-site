@@ -27,5 +27,5 @@ RATE_LIMIT_ANON = "10"
 
 [[kv_namespaces]]
 binding = "KEYS"
-id = "REPLACE_WITH_KV_ID"
-preview_id = "REPLACE_WITH_KV_PREVIEW_ID"
+id = "671c5b214f5742f28bca97ce4d0357b6"
+# preview_id = "REPLACE_WITH_KV_PREVIEW_ID"
